@@ -2,7 +2,7 @@
 
 This guide will show you how to load a FHIR Bundle JSON file into a HAPI FHIR JPA server using Java code.
 
-## Prerequisites
+## Prerequisite
 
 - Java installed on your machine
 - HAPI FHIR JPA server installed and running
